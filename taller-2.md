@@ -12,7 +12,7 @@ En el desarrollo web moderno, una página ya no se limita a mostrar información
 
 React propone una manera diferente de enfrentar ese problema. En vez de indicar cada modificación que debe hacerse sobre el documento HTML, el desarrollador describe la interfaz que corresponde a un estado determinado. React se encarga de actualizar la pantalla cuando los datos cambian. Además, permite dividir la aplicación en componentes pequeños que se pueden entender, probar y reutilizar.
 
-En este trabajo explico qué es React, cuál es el problema que busca resolver, cómo funcionan sus conceptos principales y por qué sigue siendo importante en la industria. También presento casos concretos de empresas que lo han utilizado en productos de gran escala. Las explicaciones toman como base la presentación de la Semana 9 del curso y se complementan con documentación oficial y fuentes técnicas de las empresas mencionadas.
+En este trabajo explico qué es React, cuál es el problema que busca resolver, cómo funcionan sus conceptos principales y por qué sigue siendo importante en la industria. También presento casos concretos de empresas que lo han utilizado en productos de gran escala.
 
 ## Punto 1 Qué es React
 
